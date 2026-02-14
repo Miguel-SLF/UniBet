@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Controllers\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IGameService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Interfaces\\IServices\\IGameService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\GameDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\DTOs\\GameDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Entities\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Interfaces\\IServices\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\DepositDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\DTOs\\DepositDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniBet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|d:\\downloads\\fac\\desenvolv full stack\\unibet\\unibet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,128 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "UniBet\\Controllers\\GameController.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\GameController.cs",
-              "RelativeToolTip": "UniBet\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:03:49.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IGameService.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IGameService.cs",
-              "RelativeDocumentMoniker": "UniBet\\Interfaces\\IServices\\IGameService.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IGameService.cs",
-              "RelativeToolTip": "UniBet\\Interfaces\\IServices\\IGameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:03:05.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameDTO.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\GameDTO.cs",
-              "RelativeDocumentMoniker": "UniBet\\DTOs\\GameDTO.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\GameDTO.cs",
-              "RelativeToolTip": "UniBet\\DTOs\\GameDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:02:10.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "UniBet\\Entities\\Game.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\Game.cs",
-              "RelativeToolTip": "UniBet\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:01:30.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepositDTO.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\DepositDTO.cs",
-              "RelativeDocumentMoniker": "UniBet\\DTOs\\DepositDTO.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\DTOs\\DepositDTO.cs",
-              "RelativeToolTip": "UniBet\\DTOs\\DepositDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T00:07:26.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "UniBet\\Interfaces\\IServices\\IUserService.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Interfaces\\IServices\\IUserService.cs",
-              "RelativeToolTip": "UniBet\\Interfaces\\IServices\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:50:49.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UniBet\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UniBet\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:22:39.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "UniBet\\Entities\\User.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Entities\\User.cs",
-              "RelativeToolTip": "UniBet\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:20:29.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "UniBet\\WeatherForecast.cs",
-              "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\WeatherForecast.cs",
-              "RelativeToolTip": "UniBet\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:12:51.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Program.cs",
               "RelativeDocumentMoniker": "UniBet\\Program.cs",
               "ToolTip": "D:\\Downloads\\fac\\desenvolv full stack\\UniBet\\UniBet\\Program.cs",
               "RelativeToolTip": "UniBet\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:09:34.336Z"
+              "WhenOpened": "2026-02-10T23:09:34.336Z",
+              "EditorCaption": ""
             }
           ]
         }

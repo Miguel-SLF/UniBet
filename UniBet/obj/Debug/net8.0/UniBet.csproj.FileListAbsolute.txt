@@ -30,3 +30,40 @@ C:\Users\Aula\source\repos\UniBet\UniBet\obj\Debug\net8.0\refint\UniBet.dll
 C:\Users\Aula\source\repos\UniBet\UniBet\obj\Debug\net8.0\UniBet.pdb
 C:\Users\Aula\source\repos\UniBet\UniBet\obj\Debug\net8.0\UniBet.genruntimeconfig.cache
 C:\Users\Aula\source\repos\UniBet\UniBet\obj\Debug\net8.0\ref\UniBet.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\appsettings.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.staticwebassets.endpoints.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.exe
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.deps.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.runtimeconfig.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\UniBet.pdb
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.csproj.AssemblyReference.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.AssemblyInfoInputs.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.AssemblyInfo.cs
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.csproj.CoreCompileInputs.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.sourcelink.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\scopedcss\bundle\UniBet.styles.css
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\swae.build.ex.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.csproj.Up2Date
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\refint\UniBet.dll
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.pdb
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\UniBet.genruntimeconfig.cache
+D:\Downloads\fac\desenvolv full stack\UniBet\UniBet\obj\Debug\net8.0\ref\UniBet.dll

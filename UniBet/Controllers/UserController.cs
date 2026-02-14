@@ -36,7 +36,7 @@ namespace UniBet.Controllers
             }
         }
 
-        [HttpPut("Edit")
+        [HttpPut("Edit")]
         public IActionResult GetUserData([FromQuery] int Id, [FromBody] DepositDTO deposit) 
         {
             User userRespose = _service.GetUserData(Id);
