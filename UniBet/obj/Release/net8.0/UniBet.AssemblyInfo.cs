@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniBet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+807523d475e14af44cf2138497424f72f1df781b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniBet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniBet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

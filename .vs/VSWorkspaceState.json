@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UniBet",
+    "\\UniBet\\Controllers",
+    "\\UniBet\\DTOs",
+    "\\UniBet\\Entities",
+    "\\UniBet\\Interfaces",
+    "\\UniBet\\Interfaces\\IServices"
   ],
+  "SelectedNode": "\\UniBet\\Controllers\\GameController.cs",
   "PreviewInSolutionExplorer": false
 }
